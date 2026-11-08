@@ -20,6 +20,7 @@ The whole game is framed as a **mission trainer**, so a wrong choice is never a 
   - **Power** means spare power. Running something uses some of it. After the reactor it stays at 100% even with everything running.
   - **Radiation protection** can never reach 100%, because Mars always has natural radiation. It starts at 95% and ends near 90%.
 - **Hints.** A thinking-bubble fact comes before every choice, and it never gives the answer.
+- **Conversation.** At the start of the both astronauts converse with each other about potential problems and solution which is part of the hints section.
 - **Build cap.** Each day allows at most one build, so no day can end in a stalemate.
 - **Logbook.** It updates at the start of each day with pictures and facts. The end of the game shows it in a scrapbook art style.
 
