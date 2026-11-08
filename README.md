@@ -1,5 +1,5 @@
 # Junior Astronaut Mission Trainer
-
+### [View the script storyline preface](./storyline.md)
 ### [View the Meter Table (meter.md)](./meter.md)
 A short-film style survival game for kids aged 7 to 12. Two astronauts crash-land on Mars, and the player runs their outpost for 7 in-game days. Every choice has a cost, and every day teaches one real NASA science idea.
 
