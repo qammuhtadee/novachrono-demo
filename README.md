@@ -1,5 +1,4 @@
 # Junior Astronaut Mission Trainer
-### [View the script storyline preface (may be outdated soon)](./storyline.ipynb)
 ### [View the Meter Table (meter.md)](./meter.md)
 A short-film style survival game for kids aged 7 to 12. Two astronauts crash-land on Mars, and the player runs their outpost for 7 in-game days. Every choice has a cost, and every day teaches one real NASA science idea.
 
@@ -13,7 +12,8 @@ The whole game is framed as a **mission trainer**, so a wrong choice is never a 
 
 ## How it plays
 
-- **Walking.** The base is one long horizontal hallway. The astronaut walks left and right with the arrow keys, or with on-screen buttons on a phone. The screen scrolls when the astronaut reaches the edge. Stations are placed along the hallway, and an airlock at one end leads to the Martian surface, which is the same strip with a different background.
+- **Two rooms and an airlock.** The game has two static rooms, the outpost inside and the surface of Mars outside. Each is a single screen, and nothing scrolls. An airlock connects them: standing at the airlock and pressing Space / tap fades the first room to black and fades the other one in. The two backgrounds are joined side by side only for the opening cutscene, where the view slides from the Martian surface towards the outpost, which is already built, and the astronaut goes inside.
+- **Walking.** In both rooms the top 60% of the screen is background (the wall inside, the sky and dunes outside) and the bottom 40% is the floor. The astronaut walks left and right with the arrow keys, and up and down within the floor area, which is taller than the astronaut. On a phone, on-screen buttons do the same.
 - **Interacting.** Standing at a station shows "Press Space / tap". That opens a **close-up pop-up task**, like the task windows in Among Us. Esc closes it.
 - **One astronaut per day.** The story decides who is working, and the player never chooses. The other astronaut is not shown. On the three days when both work (the two ice-mining days and the reactor day), control passes automatically from one to the other.
 - **Meters.** They appear one at a time as the story needs them: power on Day 1, oxygen on Day 2, water on Day 3, radiation protection on Day 4. For all four meters, 100% is good.
